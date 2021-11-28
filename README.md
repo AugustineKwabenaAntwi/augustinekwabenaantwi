@@ -1,6 +1,6 @@
 ###  Augustine Kwabena Antwi
 #### Learning software engineering and Programming
-![Learning software engineering and Programming](https://pbs.twimg.com/profile_banners/3420528707/1638117032/1080x360)
+![Learning software engineering and Programming](https://github.com/AugustineKwabenaAntwi/augustinekwabenaantwi/blob/main/Untitled%20design.gif)
 
 I am Augustine from Ghana.I like programming and i enjoy building apps. I am still learning react native and Python🐍. I think i am pretty good with JAVASCRIPT and HTML. Check my twitter page for #100DaysOfCode posts at twitter.com/austin_kobby.
 
