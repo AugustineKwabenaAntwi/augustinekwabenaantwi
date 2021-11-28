@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-<!--
+I am Augustine from Ghana.I like programming and i enjoy building apps. I am still learning react native and Python🐍.
+I think i am pretty good with JAVASCRIPT and HTML. Check my twiiter page for #100DaysOfCode posts at twitter.com/austin_kobby.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustineKwabenaAntwi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
 **AugustineKwabenaAntwi/augustinekwabenaantwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
