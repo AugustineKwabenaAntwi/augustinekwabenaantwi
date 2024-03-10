@@ -2,16 +2,14 @@
 #  Augustine Kwabena Antwi
 ## Learning software engineering and Programming
 
-I am Augustine from Ghana.I like programming and i enjoy building apps. I am still learning react native and Python🐍. I think i am pretty good with JAVASCRIPT and HTML. Check my twitter page for #100DaysOfCode posts at twitter.com/austin_kobby.
+I am Augustine from Ghana.I like programming and i enjoy building apps. I am still learning  Python🐍. I think i am pretty good with JAVASCRIPT and HTML. Check my twitter page for posts at twitter.com/austin_kobby.
 
 ## Skills and Experience
-* ⚛️ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+* 🐍 Python
+* 💻 HTML, CSS
 
 ## What i am doing
-- 🔭 I’m currently working on a chat app {a platform for students who need counselling; i put it on hold but i will keep you updated} 
-- 🌱 I’m currently learning React native and Python🐍 
+- 🌱 I’m currently learning Python🐍 
 - 👯 I’m looking to collaborate on open source programs once i get better with python 
 
 
