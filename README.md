@@ -19,11 +19,6 @@ I am Augustine from Ghana.I like programming and i enjoy building apps. I am sti
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=augustinekwabenaantwi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=augustinekwabenaantwi)  
-
-
-![Profile views](https://gpvc.arturio.dev/augustinekwabenaantwi)  
-
 
 
 
