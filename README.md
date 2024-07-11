@@ -2,11 +2,11 @@
 #  Augustine Kwabena Antwi
 ## Learning software engineering and Programming
 
-I am Augustine from Ghana.I like programming and i enjoy building apps. I am still learning  Python🐍. I think i am pretty good with JAVASCRIPT and HTML. Check my twitter page for posts at twitter.com/austin_kobby.
+I am Augustine from Ghana.I like programming and i enjoy building apps. I am still learning  Python🐍. Check my twitter page for posts at twitter.com/austin_kobby.
 
 ## Skills and Experience
 * 🐍 Python
-* 💻 HTML, CSS
+* SQL
 
 ## What i am doing
 - 🌱 I’m currently learning Python🐍 
