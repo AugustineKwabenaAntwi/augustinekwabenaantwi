@@ -1,8 +1,8 @@
 ![Learning software engineering and Programming](https://github.com/AugustineKwabenaAntwi/augustinekwabenaantwi/blob/main/Untitled%20design.gif)
 #  Augustine Kwabena Antwi
-## Learning software engineering and Programming
+## Learning Programming
 
-I am Augustine from Ghana.I like programming and i enjoy building apps. I am still learning  Python🐍. Check my twitter page for posts at twitter.com/austin_kobby.
+I am Augustine from Ghana. I am still learning  Python🐍. Check my twitter page for posts at twitter.com/austin_kobby.
 
 ## Skills and Experience
 * 🐍 Python
